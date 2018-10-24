@@ -1,0 +1,17 @@
+/* 
+There are more Internal Style Sheet and 
+Inline Styles in the PHP and html files.
+*/
+
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: navy;
+}
+
+p {
+	color: navy;
+	margin-left: 20px;
+}
